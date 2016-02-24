@@ -5,7 +5,7 @@ Create GUIs like in Sword Art Online!
 © 2015 Daniel Saukel, DRE team, DRE2N team.
 
 #### License
-None, feel free to do with it whatever you wish.
+GNU GPLv3.
 
 #### Compatibility
 Server: CraftBukkit (or a CraftBukkit mod like Spigot or SportBukkit) for Minecraft 1.7.9 and higher
